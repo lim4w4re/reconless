@@ -42,7 +42,7 @@ Some examples of using the tool:
 
   - Reconless can also generate a custom example script written in powershell (-gs or --generated-script options), which collects information about the target host and sends it to the server:
     ```
-    python3 reconless.py -d <your-domain> -i <your autoritative IP> -gs
+    python3 reconless.py -d <your-domain> -i <your authoritative IP> -gs
     ```
     ![image](https://github.com/user-attachments/assets/1d1ccb44-4329-4e81-bc0b-06d37a381f2f)
 
