@@ -46,6 +46,8 @@ Some examples of using the tool:
     ```
     ![image](https://github.com/user-attachments/assets/1d1ccb44-4329-4e81-bc0b-06d37a381f2f)
 
-    Generated script:
+    Example:
+    
+    ![reconless-gif](https://github.com/user-attachments/assets/64406b28-90d2-41cd-9896-7f2a5ea0d573)
 
-    ![image](https://github.com/user-attachments/assets/e118b8fa-ecea-498b-a745-875b297f8509)
+
