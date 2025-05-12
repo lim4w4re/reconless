@@ -6,7 +6,7 @@ from dnslib.server import DNSServer, BaseResolver, DNSLogger
 from dnslib import RR, QTYPE, A
 
 parser = argparse.ArgumentParser(description='Reconless is a DNS listener tool that can be used by red team / pentest teams in reconnaissance and exfiltration phases.')
-parser.add_argument('-d', '--domain', required=True, type=str, help='Your domain (e.g orizon.help)')
+parser.add_argument('-d', '--domain', required=True, type=str, help='Your domain (e.g domain.test)')
 parser.add_argument('-ip', type=str, help='Authoritative DNS server IP for generated script')
 parser.add_argument('-gs', '--generated-script', action='store_true', help='Generate powershell script with given domain and ip')
 parser.add_argument('-l', '--log', action='store_true', help='Log exfiltrated data to file per client IP')
